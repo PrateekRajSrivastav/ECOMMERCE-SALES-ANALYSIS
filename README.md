@@ -9,6 +9,7 @@ REPORT VIEW:
 
 TABLE VIEW:
 ![details](https://github.com/user-attachments/assets/17d0de29-f4f6-4cae-9491-5adee4d23129)
+
 ![orders](https://github.com/user-attachments/assets/a3118dad-8770-4cf8-9005-d2283b4e1829)
 
 MODEL VIEW:
